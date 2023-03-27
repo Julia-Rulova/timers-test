@@ -1,5 +1,7 @@
 # timers-test
 
+#### Ссылка на [сайт](https://timers-test.vercel.app/)
+
 ## Project setup
 ```
 npm install
