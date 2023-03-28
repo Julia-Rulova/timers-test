@@ -14,7 +14,7 @@ export default {
 <style>
 .add-timer {
   width: 100%;
-  height: 100%;
+  height: 120px;
   background-color: #696969;
   position: relative;
   transition: all 0.3s ease-in-out;

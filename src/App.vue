@@ -51,6 +51,7 @@ export default {
 .app {
   width: 100%;
   min-height: 100vh;
+  height: max-content;
   background-color: #353638;
   padding: 72px 212px;
   display: flex;
@@ -58,9 +59,9 @@ export default {
 }
 
 .timers {
+  height: max-content;
   display: grid;
   grid-template-columns: repeat(3, 225px);
-  grid-template-rows: repeat(auto-fit, 120px);
   gap: 45px 50px;
   list-style-type: none;
 }
